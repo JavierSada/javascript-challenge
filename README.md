@@ -1,2 +1,2 @@
-# javascript-challenge
-JavaScripting 
+# JavaScript Challenge
+
