@@ -1,7 +1,7 @@
 # JavaScript Homework - JavaScript and DOM Manipulation
 
 <p align='center'>
-<a><img height="600" src="https://github.com/JavierSada/javascript-challenge/blob/main/Pics/SS1.PNG"></a>
+<a><img height="500" src="https://github.com/JavierSada/javascript-challenge/blob/main/Pics/SS1.PNG"></a>
 </p>
 
 ## Background
@@ -48,5 +48,3 @@ You can handle this... right? The planet Earth needs to know what we have found!
 **Good luck!**
 
 - - -
-
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
