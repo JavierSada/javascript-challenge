@@ -56,3 +56,8 @@ You can handle this... right? The planet Earth needs to know what we have found!
 **Good luck!**
 
 - - -
+
+<p align='center'>
+<a><img height="500" src="https://media.giphy.com/media/QAsKb5vevHnJN84lMT/giphy.gif"></a>
+</p>
+
