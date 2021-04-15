@@ -41,6 +41,10 @@ You can handle this... right? The planet Earth needs to know what we have found!
   4. `country`
   5. `shape`
 
+<p align='center'>
+<a><img height="500" src="https://github.com/JavierSada/javascript-challenge/blob/main/Pics/SS3.PNG"></a>
+</p>
+
 - - -
 
 ### Dataset
