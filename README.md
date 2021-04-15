@@ -25,6 +25,10 @@ You can handle this... right? The planet Earth needs to know what we have found!
 
 * Use a date form in your HTML document and write JavaScript code that will listen for events and search through the `date/time` column to find rows that match user input.
 
+<p align='center'>
+<a><img height="500" src="https://github.com/JavierSada/javascript-challenge/blob/main/Pics/SS2.PNG"></a>
+</p>
+
 ### Level 2: Multiple Search Categories (Optional)
 
 * Complete all of Level 1 criteria.
